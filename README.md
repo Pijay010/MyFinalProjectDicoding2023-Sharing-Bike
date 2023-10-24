@@ -14,6 +14,7 @@ pip install pandas matplotlib seaborn jupyter streamlit babel
 ## Run Streamlit app
 ```python
 '''streamlit run dashboard.py
+https://myfinalprojectdicoding2023-sharing-bike-fvvsqxdhermsrdxmhfwoha.streamlit.app/
 '''
 ```
 
